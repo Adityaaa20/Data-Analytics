@@ -10,8 +10,8 @@ This project analyzes hospital expenses, patient outcomes, readmissions, and sat
 - Longer hospital stays **reduce** readmission chances.  
 
 ## 📂 Files Included  
-- **Cost_vs_Outcome_Analysis.ipynb** → Jupyter Notebook with code & analysis  
-- **hospital_data.csv** → Dataset used for the study  
+- **Cost_vs_Outcome_Analysis.ipynb** 
+- **hospital_data.csv** 
 
 ## 🚀 How to Run  
 1. Clone the repository:  
